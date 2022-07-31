@@ -19,31 +19,31 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
+global.owner = ['967770500831']
+global.premium = ['967770500831']
+global.ownernomer = '967770500831'
+global.ownername = 'Dark Raizel'
 global.botname = 'BIXBY-MD USER BOT'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
-global.ig = 'https://github.com/darkalphaxteam'
+global.ig = 'https://wa.me/+967770500831 '
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW'
-global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
+global.sc = 'https://wa.me/+967770500831 '
+global.myweb = 'https://wa.me/+967770500831 '
 global.packname = 'Queen Bixby MD'
 global.author = 'DARK ALPHA'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Please Wait...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    success: 'تم ✓',
+    admin: '◢انت مش آدمـــن يورع◣!',
+    botAdmin: '◢إرفع البوت ادمـــن لكي يعمل◣!',
+    owner: '◢هذه الاوامر خاصة بالمالك◣!',
+    group: '◢هذه الاوامر تعمل بالقروبات فقط◣!',
+    private: '◢هذه الاوامر تعمل بالخاص فقط◣!',
+    bot: '◢هذه الاوامر خاصة بالبوت◣',
+    wait: '◢يـــرجى الإنتظــار◣...',
+    error: 'خطـــــErorـــــأ🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
